@@ -14,6 +14,7 @@ public class PruevaVentanas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.print("hola mundo");
         
         
         ventanaPrincipal v1=new ventanaPrincipal();
